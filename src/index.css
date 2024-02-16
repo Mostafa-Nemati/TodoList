@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.panel-dark {
+    background-color: #52525b;
+    color: white;
+}
+
+.button-dark {
+    background-color: #18181b;
+    border-color: black;
+}
